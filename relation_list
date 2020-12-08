@@ -1,0 +1,22 @@
+Relation Number,Head Entity,Tail Entity,Relation Name
+R1,hacker group,location,background
+R2,hacker group,location,target location
+R3,hacker group,industry,target industry
+R4,hacker group,hacker group,target group
+R5,hacker group,user,target user
+R6,hacker group,method,attack method
+R7,hacker group,tool,tools to use
+R8,hacker group,vulnerability,target industry
+R9,hacker group,time,earliest active time
+R10,hacker group,time,first discovered time
+R11,hacker group,time,attack time
+R12,hacker group,domain,domain used
+R13,hacker group,purpose,purpose of attack
+R14,hacker group,alias,group alias
+R15,hacker group,amount,attack the profit
+R16,hacker group,group,fake group
+R17,hacker group,attack operation name,attack operation name
+R18,hacker group,time span,attack duration
+R19,hacker group,language,language used
+R20,hacker group,IP address,IP address used
+R21,hacker group,C2C domain,C2C domain used
