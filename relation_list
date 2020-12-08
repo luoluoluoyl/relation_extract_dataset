@@ -20,3 +20,4 @@ R18,hacker group,time span,attack duration
 R19,hacker group,language,language used
 R20,hacker group,IP address,IP address used
 R21,hacker group,C2C domain,C2C domain used
+R22,organization,hacker group,investigate hacker group
